@@ -86,10 +86,7 @@ LOB-specific adoption trends that were previously hidden
 
 Intended Users:
 
-Analytics leadership
-BI platform owners
-Governance and enablement teams
-Anyone responsible for report lifecycle management
+Analytics leadership, BI platform owners, Governance and enablement teams, Anyone responsible for report lifecycle management
 
 Dashboard Screenshot:
 ![Platform Metrics Usage Dashboard](https://raw.githubusercontent.com/Devisree24/Platform-Metrics-Usage-Dashboard/main/Platform%20Metrics%20Usage%20Dashboard.png)
