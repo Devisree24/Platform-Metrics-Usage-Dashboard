@@ -75,4 +75,5 @@ Governance and enablement teams
 Anyone responsible for report lifecycle management
 
 Dashboard Screenshot:
-![Dashboard Preview].(https://github.com/Devisree24/Platform-Metrics-Usage-Dashboard/blob/main/Platform%20Metrics%20Usage%20Dashboard.png)
+![Platform Metrics Usage Dashboard](https://raw.githubusercontent.com/Devisree24/Platform-Metrics-Usage-Dashboard/main/Platform%20Metrics%20Usage%20Dashboard.png)
+
